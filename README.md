@@ -13,6 +13,15 @@ In this regard, the impact of hyperparameter tuning, network variance, and capac
 This leads to recommendations on how network miscalibration and overconfidence can be prevented. 
 
 # Dependencies
-Install dependencies on Ubuntu: tensorflow:
+Install dependencies: tensorflow:
 ```bash
 pip install tensorflow
+
+scipy:
+```bash
+pip install scipy
+
+h5py:
+```bash
+pip install h5py
+
