@@ -16,6 +16,7 @@ This leads to recommendations on how network miscalibration and overconfidence c
 Install dependencies: tensorflow:
 ```bash
 pip install tensorflow
+```
 
 scipy:
 ```bash
