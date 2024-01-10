@@ -12,3 +12,6 @@ In doing so, temperature can be seen as a metric to assess the NN's performance 
 In this regard, the impact of hyperparameter tuning, network variance, and capacity have been studied. 
 This leads to recommendations on how network miscalibration and overconfidence can be prevented. 
 
+# Dependencies
+Install dependencies on Ubuntu: tensorflow:
+'''pip install tensorflow
