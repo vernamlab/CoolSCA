@@ -19,10 +19,12 @@ pip install tensorflow
 ```
 
 scipy:
-```bash
+```python
 pip install scipy
+```
 
 h5py:
 ```bash
 pip install h5py
+```
 
