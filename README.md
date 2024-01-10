@@ -14,5 +14,5 @@ This leads to recommendations on how network miscalibration and overconfidence c
 
 # Dependencies
 Install dependencies on Ubuntu: tensorflow:
-'''bash
+```bash
 pip install tensorflow
