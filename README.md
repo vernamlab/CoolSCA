@@ -23,3 +23,10 @@ h5py:
 pip install h5py
 ```
 
+## Acknowledgements
+
+1. This project uses code from the [NN_calibration](https://github.com/markus93/NN_calibration) repository by Markus93 for temperature calibration.
+2. The codes from [AutoSCA](https://github.com/AISyLab/AutoSCA/tree/main) were used to train the models.
+3. We used the codes from [EnsembleSCA](https://github.com/AISyLab/EnsembleSCA) for the CNN/HW model for ASCADf dataset.
+4. [TCHES20V3_CNN_SCAPublic](https://github.com/KULeuven-COSIC/TCHES20V3_CNN_SCA) and [Methodology-for-efficient-CNN-architectures-in-SCA](https://github.com/gabzai/Methodology-for-efficient-CNN-architectures-in-SCA) were used for CNN/ID for ASCADf dataset.
+
