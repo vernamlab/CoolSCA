@@ -208,9 +208,9 @@ class TemperatureScaling():
     def predict(self, logits, temp=None):
 
         if temp is None:
-            return stable_softmax(logits / self.temp)
+            return softmax(logits / self.temp)
         else:
-            return stable_softmax(logits / temp)
+            return softmax(logits / temp)
 
 
 
